@@ -1,0 +1,27 @@
+html{
+    font-size: 1rem;
+}
+.px{
+    border: 2px solid #000;
+    width: 200px;
+    font-size: 20px;
+    padding: 1rem;
+}
+.percent{
+    border: 2px solid #000;
+    width: 50%;
+    font-size: 50%;
+}
+.vw{
+    border: 2px solid #000;
+    width: 50vw;
+    height: 30vh;
+}
+.rem{
+    border: 2px solid #000;
+    font-size: 1rem;
+    padding: 1rem;
+}
+ul{
+    font-size: 1em;
+}
